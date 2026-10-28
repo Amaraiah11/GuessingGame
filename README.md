@@ -1,7 +1,7 @@
 # 🎯 Java GUI Number Guesser — Interactive Swing Game Engine & Adaptive Feedback
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:16A34A,100:4ADE80&customColorList=14532D,16A34A,4ADE80&height=220&section=header&text=Java%20GUI%20Number%20Guesser&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Interactive%20Swing%20Game%20Engine%20with%20Dynamic%20Feedback%20%26%20State%20Tracking&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Java GUI Number Guesser Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:16A34A,100:4ADE80&customColorList=14532D,16A34A,4ADE80&height=220&section=header&text=Java%20GUI%20Number%20Guesser&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Interactive%20Swing%20Game%20Engine%20with%20Dynamic%20Feedback%20and%20State%20Tracking&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Java GUI Number Guesser Banner" />
 </p>
 
 <p align="center">
